@@ -1,5 +1,7 @@
 # Solana Bytes
 
+![](2023-11-14-16-10-28.png)
+
 **Link** : [Solana Bytes - The Solana Programming Model - YouTube](https://www.youtube.com/watch?v=pRYs49MqapI&list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm&index=14)
 
 - [01 - The Solana Programming Model](https://github.com/Laugharne/solana_bytes/tree/main/01%20-%20The%20Solana%20Programming%20Model)
