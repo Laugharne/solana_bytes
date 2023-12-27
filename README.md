@@ -1,6 +1,6 @@
 # Solana Bytes
 
-![](2023-11-14-16-10-28.png)
+![](solana_logo.png)
 
 **Link** : [Solana Bytes - The Solana Programming Model - YouTube](https://www.youtube.com/watch?v=pRYs49MqapI&list=PLilwLeBwGuK51Ji870apdb88dnBr1Xqhm&index=14)
 
